@@ -20,8 +20,9 @@
   </div>
   
   <br> 🐹 🗂 🐹 <br><br>
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=annann0718)](https://velog.io/@annann0718)
   ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=annann0718)<br>
-
+  
   # 
   <br> 🐹 🐹 🐹 🐹 🐹 🐹 🐹 🐹 🐹 🐹 🐹 <br><br>
   
