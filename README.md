@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"><br>
 
   <br> 🐹 📃 🐹 <br><br>
-  <a href="https://www.notion.so/nyuzzang/Eunyu-7883650306384c6898cd4a212598b527" target="_blank"><img src="https://img.shields.io/badge/Notion-00c9f2?style=plastic&logo=notion&logoColor=white"/></a>
+  <a href="https://nyuzzang.notion.site/nyuzzang/Eunyu-7883650306384c6898cd4a212598b527" target="_blank"><img src="https://img.shields.io/badge/Notion-00c9f2?style=plastic&logo=notion&logoColor=white"/></a>
   <a href=https://velog.io/@annann0718> <img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=Velog&logoColor=white&link=https://velog.io/@annann0718"></a>
   <a href=https://blog.naver.com/happyee0718> <img src="https://img.shields.io/badge/Naver-03C75A?style=plastic&logo=Naver&logoColor=white&link=https://blog.naver.com/happyee0718"></a>
   <a href=mailto:whoyou48@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white&link=mailto:whoyou48@gmail.com"></a><br>
