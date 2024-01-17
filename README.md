@@ -17,7 +17,7 @@
   
   <br> 🐹 💼 🐹 <br>
   <div align="center">
-    · Tmax AI Bigdata Academy 4기 <sub>(2023.09 ~ )</sub>
+    · Tmax AI Bigdata Academy 4기 최종 프로젝트 발표회 우수상<sub>(2023.09 ~ 2023.12)</sub>
   </div>
   
   <br> 🐹 🗂 🐹 <br><br>
