@@ -10,19 +10,19 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"><br>
 
   <br> 🐹 📃 🐹 <br><br>
-  <a href="https://nyuzzang.notion.site/ec8ffc4944e0429b88daeee0188f17e3" target="_blank"><img src="https://img.shields.io/badge/Notion-00c9f2?style=plastic&logo=notion&logoColor=white"/></a>
   <a href=https://velog.io/@annann0718> <img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=Velog&logoColor=white&link=https://velog.io/@annann0718"></a>
   <a href=https://blog.naver.com/happyee0718> <img src="https://img.shields.io/badge/Naver-03C75A?style=plastic&logo=Naver&logoColor=white&link=https://blog.naver.com/happyee0718"></a>
   <a href=mailto:whoyou48@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white&link=mailto:whoyou48@gmail.com"></a><br>
+
+  <br> 🐹 💳 🐹 <br><br>
+  <a href="https://nyuzzang.notion.site/ec8ffc4944e0429b88daeee0188f17e3" target="_blank"><img src="https://img.shields.io/badge/Resume-00c9f2?style=plastic&logo=notion&logoColor=white"/></a>
+  <a href="https://www.notion.so/nyuzzang/ec8ffc4944e0429b88daeee0188f17e3" target="_blank"><img src="https://img.shields.io/badge/Portfolio-E4405F?style=plastic&logo=notion&logoColor=white"/></a>
+
   
   <br> 🐹 💼 🐹 <br>
   <div align="center">
-    · Tmax AI Bigdata Academy 4기 최종 프로젝트 발표회 우수상<sub>(2023.09 ~ 2023.12)</sub>
-  </div>
-  
-  <br> 🐹 🗂 🐹 <br><br>
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=annann0718)](https://velog.io/@annann0718) <br><br>
-  
+    · Tmax AI Bigdata Academy 4기 최종 프로젝트 발표회 우수상<sub>(2023.09 ~ 2023.12)</sub><br /><br />
+  </div><br>
   
   # 
   <br> 🐹 🐹 🐹 🐹 🐹 🐹 🐹 🐹 🐹 🐹 🐹 <br><br>
