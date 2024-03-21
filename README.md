@@ -15,8 +15,6 @@
   <a href=mailto:whoyou48@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white&link=mailto:whoyou48@gmail.com"></a><br>
 
   <br> 🐹 💳 🐹 <br><br>
-  <a href="https://nyuzzang.notion.site/ec8ffc4944e0429b88daeee0188f17e3" target="_blank"><img src="https://img.shields.io/badge/Resume-00c9f2?style=plastic&logo=notion&logoColor=white"/></a>
-  <a href="https://www.notion.so/nyuzzang/ec8ffc4944e0429b88daeee0188f17e3" target="_blank"><img src="https://img.shields.io/badge/Portfolio-E4405F?style=plastic&logo=notion&logoColor=white"/></a>
 
   
   <br> 🐹 💼 🐹 <br>
